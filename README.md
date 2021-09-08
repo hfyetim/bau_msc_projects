@@ -1,4 +1,4 @@
-# bau_msc_projects
+# msc_projects
 I intend to use this space to store and share some of the projects and assignments that I completed as part of my studies at Bahcesehir University's MSc Program 
 in Big Data Analytics and Management. 
 
